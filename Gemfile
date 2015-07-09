@@ -1,4 +1,10 @@
-
+# Author: Francis Bautista
+# Last Updated: July 9, 2015
+#
+# This Gemfile lists my go-to gems for quick and dirty rails app-dev
+# I usually standardize on them later on, but there are what I use for
+# fast development.
+#
 #===================================#
 #  Core Gems                        #
 #===================================#
